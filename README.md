@@ -24,10 +24,18 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <br />
   <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  	<img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+<!--   	<img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> -->
+	<img width="10%" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 	<img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
   <br />
 	<img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 	<img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">	
-  <br />	
+  <br />
+  	<img width="10%" alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+	<img width="10%" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+	<img width="10%" alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+	<img width="10%" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+	<img width="10%" alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+  	<img width="10%" alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <br />
 </p>
