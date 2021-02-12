@@ -1,7 +1,7 @@
 <!-- Your title -->
 ## Hi, I'm Kuldeep Gautam, a Graduate Student at IIT-H.
 
-<p align="left">
+<p align="justify">
 <a href="https://www.linkedin.com/in/kgautam01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/kgautam01"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:kuldeep.gautam075@gmail.com"><img src="https://img.shields.io/badge/gmail-%23d44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -11,10 +11,6 @@
 <p align="justify"> <samp>Hi, My name is Kuldeep Gautam. I am a Graduate Research Assistant at IIT Hyderabad (Dept of CSE), working on deep learning compilers for code optimization, with a demonstrated history of working on Machine Learning Stack and having an industry experience of working as a Software Engineer at Samsung Research Institute, Noida.
 
 ### Languages and Tools:
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
 <p align="justify">
 	<img width="55%" align="right" alt="Kuldeep's github stats" src="https://github-readme-stats.vercel.app/api?username=kgautam01&show_icons=true&hide_border=true"/>
 	<br />
