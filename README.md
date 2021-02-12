@@ -15,14 +15,9 @@
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<p>
-    <img width="55%" align="right" alt="Kuldeep's github stats" src="https://github-readme-stats.vercel.app/api?username=kgautam01&show_icons=true&hide_border=true" />
-  </a>
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <br />
+<p align="justify">
+	<img width="55%" align="right" alt="Kuldeep's github stats" src="https://github-readme-stats.vercel.app/api?username=kgautam01&show_icons=true&hide_border=true"/>
+	<br />
   	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 	<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 	<br />
@@ -40,5 +35,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 	<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
 	<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
   	<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <br />
+  	<br />
 </p>
