@@ -8,7 +8,7 @@
 </p>
 
 ### About me
-<p align="left"> <samp>Hi, My name is Kuldeep Gautam. I am a Graduate Research Assistant at IIT Hyderabad (Dept of CSE), working on deep learning compilers for code optimization, with a demonstrated history of working on Machine Learning Stack and having an industry experience of working as a Software Engineer at Samsung Research Institute, Noida.
+<p align="justify"> <samp>Hi, My name is Kuldeep Gautam. I am a Graduate Research Assistant at IIT Hyderabad (Dept of CSE), working on deep learning compilers for code optimization, with a demonstrated history of working on Machine Learning Stack and having an industry experience of working as a Software Engineer at Samsung Research Institute, Noida.
 
 ### Languages and Tools:
 
