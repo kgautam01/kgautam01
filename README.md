@@ -9,7 +9,7 @@
 </p>
 
 ### About
-<p align="justify"> <samp>Kuldeep is a Graduate Research Assistant at IIT Hyderabad (Dept of CSE), currently working in the intersection of deep learning and compilers for code comprehension and code optimization projects. He has a demonstrated history of working on ML/DL Stack and has industry experience working as a Software Engineer at Samsung Research Institute, Noida and as a Data Science Intern at SIPI-IP, Noida. He has also worked on several academic projects in his undergraduate in the same domain.</samp></p> Check out his [WebPortfolio]().</p>
+<p align="justify"> <samp>Kuldeep is a Graduate Research Assistant at IIT Hyderabad (Dept of CSE), currently working in the intersection of deep learning and compilers for code comprehension and code optimization projects. He has a demonstrated history of working on ML/DL Stack and has industry experience working as a Software Engineer at Samsung Research Institute, Noida and as a Data Science Intern at SIPI-IP, Noida. He has also worked on several academic projects in his undergraduate in the same domain.</samp></p>
 
 
 ### Skills
