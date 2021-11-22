@@ -14,7 +14,7 @@
 
 ### Skills
 <p align="justify">
-	<img width="52%" align="right" alt="Kuldeep's github stats" src="https://github-readme-stats.vercel.app/api?username=kgautam01&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=004354"/>
+	<img width="50%" align="right" alt="Kuldeep's github stats" src="https://github-readme-stats.vercel.app/api?username=kgautam01&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=004354"/>
   	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 	<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 	</br>
