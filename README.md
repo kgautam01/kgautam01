@@ -9,7 +9,8 @@
 </p>
 
 ### About
-<p align="justify"> <samp>Kuldeep is a Graduate Research Assistant at IIT Hyderabad (Dept of CSE), currently working in the intersection of deep learning and compilers for code comprehension and code optimization projects. He has a demonstrated history of working on ML/DL Stack and has industry experience working as a Software Engineer at Samsung Research Institute, Noida and as a Data Science Intern at SIPI-IP, Noida. He has also worked on several academic projects in his undergraduate in the same domain.</samp></p>
+<p align="justify"> <samp>Kuldeep is currently working as an R&D Engineer @At AIRA Matrix, where he and his team leverage computer vision and deep learning to tackle challenges in digital histopathology. He is primarily focused on overcoming image segmentation and domain generalization challenges. My research has led to developing algorithms that demonstrate robust performance in lab stain segmentation, an achievement that underscores my commitment to innovation in AI for healthcare.
+Having completed his M. Tech (by research) at IIT Hyderabad, he was involved in blending compilers with machine learning to enhance code comprehension, a testament to my interdisciplinary approach. With a solid foundation in Python and machine learning, I'm eager to explore more in computer vision or NLP, aiming to contribute to breakthroughs in this captivating research domain.</samp></p>
 
 
 ### Skills
