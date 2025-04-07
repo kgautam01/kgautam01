@@ -9,8 +9,7 @@
 </p>
 
 ### About
-<p align="justify"> <samp>Kuldeep is currently working as an R&D Engineer @At AIRA Matrix, where he and his team leverage computer vision and deep learning to tackle challenges in digital histopathology. He is primarily focused on overcoming image segmentation and domain generalization challenges. My research has led to developing algorithms that demonstrate robust performance in lab stain segmentation, an achievement that underscores my commitment to innovation in AI for healthcare.
-Having completed his M. Tech (by research) at IIT Hyderabad, he was involved in blending compilers with machine learning to enhance code comprehension, a testament to my interdisciplinary approach. With a solid foundation in Python and machine learning, I'm eager to explore more in computer vision or NLP, aiming to contribute to breakthroughs in this captivating research domain.</samp></p>
+<p align="justify"> <samp>Kuldeep is a deep learning researcher at AIRA Matrix, applying computer vision to advance digital histopathology. His work focuses on image segmentation and domain generalization challenges, leading to robust algorithms for detecting anomalies and artifacts in the whole slide images. During his master's (by research) at IIT Hyderabad, he also explored the intersection of compilers and deep learning to enhance code comprehension and binary similarity, reflecting a strong interdisciplinary approach. With a solid foundation in Python and machine learning, he is now keen to explore more in the domains of computer vision and NLP.</samp></p>
 
 
 ### Skills
